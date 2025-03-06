@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sreeja</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">a passionate software developer and a final-year B.Tech student specializing in CSE. I am deeply interested in building innovative solutions through clean and efficient code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sattusreeja15&label=Profile%20views&color=0e75b6&style=flat" alt="sattusreeja15" /> </p>
 
@@ -18,3 +18,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sattusreeja15&show_icons=true&locale=en&layout=compact" alt="sattusreeja15" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sattusreeja15&show_icons=true&locale=en" alt="sattusreeja15" /></p>
+📬 Reach out:
+
+Email: [sattusreeja1@gmail.com]
